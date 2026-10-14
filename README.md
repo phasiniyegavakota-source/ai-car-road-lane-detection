@@ -165,4 +165,4 @@ validated safety system:
 
 ---
 
-Developer: **Hasini Prasad** | [LinkedIn](https://linkedin.com/in/hasini-prasad-b761b0286)
+Developer: **Hasini Prasad** | [LinkedIn](www.linkedin.com/in/hasini-p-7513b7411)
